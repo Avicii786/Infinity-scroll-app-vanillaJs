@@ -1,1 +1,1 @@
-# Infinity-scroll-app-vanillaJs
+# Infinite Scroll App in Vanillajs

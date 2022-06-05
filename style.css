@@ -18,6 +18,28 @@ h1 {
   font-size: 40px;
   letter-spacing: 5px;
 }
+.heading {
+  display: flex;
+  justify-content: center;
+}
+.heading p {
+  align-self: flex-end;
+  font-size: 12px;
+}
+.heading a {
+  text-decoration: none;
+  color: black;
+  padding: 0 5px;
+  transition: all 0.3s ease-in-out;
+}
+
+.heading a:hover {
+  cursor: pointer;
+  background-color: green;
+  color: white;
+  padding: 3px 5px;
+  border-radius: 2px;
+}
 
 /* Loader */
 .loader {
